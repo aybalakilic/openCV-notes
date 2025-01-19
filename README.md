@@ -4,26 +4,26 @@
 
 ## İÇERİK
 
-  ### Temel İşlemler 🎨
+### Temel İşlemler 🎨
 
-    #### Resim dosyalarını okuma ve görüntüleme
+#### Resim dosyalarını okuma ve görüntüleme
 
-    #### Görüntü boyutlandırma ve veri tiplerini inceleme
+#### Görüntü boyutlandırma ve veri tiplerini inceleme
 
-    #### Çizim Uygulamaları 🌐
+### Çizim Uygulamaları 🌐
 
-    Resim üzerine çizgi, daire, dikdörtgen ve metin ekleme
+#### Resim üzerine çizgi, daire, dikdörtgen ve metin ekleme
 
-  ### Gelişmiş Görüntü İşleme Teknikleri 🌈
+### Gelişmiş Görüntü İşleme Teknikleri 🌈
 
-    Bitwise işlemleri (and, or, not, xor)
+#### Bitwise işlemleri (and, or, not, xor)
 
-    Thresholding (eşikleme yöntemleri)
+#### Thresholding (eşikleme yöntemleri)
 
-    Morfolojik işlemler (erosion, dilation vb.)
+#### Morfolojik işlemler (erosion, dilation vb.)
 
-  ### Kamera ve Video İşlemleri 🎥
+### Kamera ve Video İşlemleri 🎥
 
-    Canlı görüntü üzerinde işlem yapma
+#### Canlı görüntü üzerinde işlem yapma
 
-    Video kaydetme ve düzenleme
+#### Video kaydetme ve düzenleme
