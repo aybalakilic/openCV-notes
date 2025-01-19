@@ -6,11 +6,11 @@
 
   ### Temel İşlemler 🎨
 
- #### Resim dosyalarını okuma ve görüntüleme
+    #### Resim dosyalarını okuma ve görüntüleme
 
- #### Görüntü boyutlandırma ve veri tiplerini inceleme
+    #### Görüntü boyutlandırma ve veri tiplerini inceleme
 
-  ### Çizim Uygulamaları 🌐
+    #### Çizim Uygulamaları 🌐
 
     Resim üzerine çizgi, daire, dikdörtgen ve metin ekleme
 
