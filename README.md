@@ -1,8 +1,8 @@
-OpenCV ile Python - Notlar ve Örnekler 🔍
+OpenCV ile PYTHON -NOTLAR VE ÖRNEKLER 🔍
 
-OpenCV kütüphanesi ile yapılan çeşitli görüntü işleme uygulamaları ve notlar bu projede yer almaktadır.
+  OpenCV kütüphanesi ile yapılan çeşitli görüntü işleme uygulamaları ve notlar bu projede yer almaktadır.
 
-İçerik
+İÇERİK
 
   Temel İşlemler 🎨
 
