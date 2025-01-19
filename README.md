@@ -6,7 +6,7 @@
 
 ### Temel İşlemler 🎨
 
-#### Resim dosyalarını okuma ve görüntüleme
+> Resim dosyalarını okuma ve görüntüleme
 
 #### Görüntü boyutlandırma ve veri tiplerini inceleme
 
